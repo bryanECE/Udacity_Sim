@@ -9,7 +9,7 @@ To run the project, you will need the following:
 
 Udacity self-driving car simulator \
 Python 3.7 \
-Required Python packages (specified in mode_reqs.txt) \
+Required Python packages (specified in mode_reqs.txt)
 
 # Credits:
 This project is a collaborative effort by Bryan Brizo, Cheng Dong, and Chibuike Onyeka.
