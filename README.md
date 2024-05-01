@@ -13,3 +13,5 @@ Required Python packages (specified in mode_reqs.txt)
 
 # Credits:
 This project is a collaborative effort by Bryan Brizo, Cheng Dong, and Chibuike Onyeka.
+
+Training Data - Rayan Slim (https://github.com/rslim087a/track)
