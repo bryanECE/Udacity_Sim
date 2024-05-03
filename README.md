@@ -7,7 +7,7 @@ This project serves as the final assessment requirement for the ISY503 course, c
 # Requirements
 To run the project, you will need the following:
 
-Udacity self-driving car simulator \
+Udacity self-driving car simulator (https://github.com/udacity/self-driving-car-sim?tab=readme-ov-file) \
 Python 3.7 \
 Required Python packages (specified in mode_reqs.txt)
 
@@ -15,4 +15,4 @@ Required Python packages (specified in mode_reqs.txt)
 This project is a collaborative effort by Bryan Brizo, Cheng Dong, and Chibuike Onyeka.
 
 Our Data - https://drive.google.com/drive/folders/1oyFEogK5kI4PPM4RTfU1D6lnUoVVpqJA?usp=sharing
-Training Data (For Comparison) - Rayan Slim (https://github.com/rslim087a/track)
+Training Data (For Comparison) - https://github.com/rslim087a/track
